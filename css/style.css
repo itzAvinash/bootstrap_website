@@ -1,0 +1,14 @@
+.jumbotron{
+    background-color:  #6f42c1;
+}
+.footer{
+    background-color:rgb(205, 176, 233);
+}
+body{
+    padding:50px 0px 0px 0px;
+     z-index:0;
+}
+
+.navbar-dark {
+    background-color: #512DA8;
+}
